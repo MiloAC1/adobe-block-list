@@ -1,0 +1,15 @@
+||adobe||
+||adobe||
+||nr-data||
+||opsource||
+||verisign||
+||fastly||
+||licensingstack||
+||demdex||
+||omtrdc||
+||adobedtm||
+||adobejanus||
+||edgekey||
+||adobe||
+||akadns||
+||edgesuite||
